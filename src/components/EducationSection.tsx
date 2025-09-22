@@ -1,4 +1,5 @@
 function EducationSection(){
+    return(
     <section>
         <div>
             <h2> Education</h2>
@@ -11,5 +12,6 @@ function EducationSection(){
             </div>
         </div>
     </section>
+    )
 }
 export default EducationSection
