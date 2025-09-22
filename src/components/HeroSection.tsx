@@ -6,7 +6,7 @@ function HeroSection() {
         alt="Profile" 
         className="w-40 h-40 rounded-full shadow-lg mb-6"
       />
-      <h2 className="text-4xl font-bold mb-2">Hi, I'm Your Name</h2>
+      <h2 className="text-4xl font-bold mb-2">Hi, I'm MuhamadFaris</h2>
       <p className="text-lg text-gray-600 mb-6">A passionate Software Engineer 🚀</p>
       <a 
         href="#contact" 
