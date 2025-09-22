@@ -12,3 +12,4 @@ function EducationSection(){
         </div>
     </section>
 }
+export default EducationSection
